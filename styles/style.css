@@ -82,6 +82,7 @@ text-shadow: 1px 1px 1px black;
 }
 .subscribe, footer {
   background-color: #010101;
+  color: #a91bcc;
 }
 .subscribe {
     padding-top: 95px;
@@ -133,6 +134,7 @@ input[type="button"] {
   text-decoration: none;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  color:#a91bcc;
   border: none;
 }
 .navbar-default .navbar-toggle {
